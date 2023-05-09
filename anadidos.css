@@ -1,0 +1,99 @@
+
+/*NUEVAS CARTAS*/ 
+/*FALTA PULIR LOS BACKGROUND DE LAS CARTAS*/
+/*<div class="card">
+                <div class="perfil four"></div>
+                <div class="detalle">
+                    <h2>PROMPT DIBUJOS</h2>
+                    <h3>dibujinchi estilo americano<br> SOY UN COMENTARIO MOLESTO close_up_photo_photography-2021568195-scale10.00-k_euler_a-alflowsito</h3>
+                    <div class=" redes">
+                        <i class='bx bxl-instagram'></i>
+                        <i class='bx bxl-twitter'></i>
+                        <i class='bx bxl-tiktok'></i>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="perfil five"></div>
+                <div class="detalle">
+                    <h2>PROMPT DIBUJOS</h2>
+                    <h3>dibujinchi estilo americano<br> SOY UN COMENTARIO MOLESTO close_up_photo_photography-2021568195-scale10.00-k_euler_a-alflowsito</h3>
+                    <div class=" redes">
+                        <i class='bx bxl-instagram'></i>
+                        <i class='bx bxl-twitter'></i>
+                        <i class='bx bxl-tiktok'></i>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="perfil six"></div>
+                <div class="detalle">
+                    <h2>PROMPT DIBUJOS</h2>
+                    <h3>dibujinchi estilo americano<br> SOY UN COMENTARIO MOLESTO close_up_photo_photography-2021568195-scale10.00-k_euler_a-alflowsito</h3>
+                    <div class=" redes">
+                        <i class='bx bxl-instagram'></i>
+                        <i class='bx bxl-twitter'></i>
+                        <i class='bx bxl-tiktok'></i>
+                    </div>
+                </div>
+            </div>
+*/
+
+
+
+
+
+
+
+
+
+/* cuarta foto NUEVA*/
+
+.perfil.four{
+    background: url(/MEDIA/DIBUJO.png) ;
+    background-size: 14rem;
+}
+
+.card:hover .perfil.four{
+    transform: translateY(-40px) scale(0.75);
+    z-index: 3;
+}
+
+.card:hover .detalle{
+    transform: scale(1);
+    z-index: 2;
+}
+
+/* quinta foto NUEVA*/
+
+.perfil.five{
+    background: url(/MEDIA/traje.png) ;
+    background-size: 14rem;
+}
+
+.card:hover .perfil.five{
+    transform: translateY(-40px) scale(0.75);
+    z-index: 3;
+}
+
+.card:hover .detalle{
+    transform: scale(1);
+    z-index: 2;
+}
+
+/* sexta foto NUEVA*/
+
+.perfil.six{
+    background: url(/MEDIA/00061-112930515.png) ;
+    background-size: 14rem;
+}
+
+.card:hover .perfil.six{
+    transform: translateY(-40px) scale(0.75);
+    z-index: 3;
+}
+
+.card:hover .detalle{
+    transform: scale(1);
+    z-index: 2;
+}
